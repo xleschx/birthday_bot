@@ -3,8 +3,8 @@ import time
 
 # Define a list of users with channel_id, username, and birthdate
 user_list = [
-    {"channel_id": "482573942456844299", "username": "Michael", "birthdate": "07-23"},
-    {"channel_id": "968607151427817562", "username": "Yasmin", "birthdate": "09-24"}
+    {"channel_id": "482573942456844299", "username": "---", "birthdate": "01-01"},
+    {"channel_id": "968607151427817562", "username": ""---",", "birthdate": "02-02"}
 ]
 
 # Your Discord API authorization token
